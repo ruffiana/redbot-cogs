@@ -52,10 +52,9 @@ htmlcov/
 redbot_data/
 logs/
 .data/
+data/
 
 # Local configuration & instructions
 .github/copilot-instructions.md
 PROJECT_STATUS.md
-
-
-
+.env
