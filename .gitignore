@@ -55,6 +55,7 @@ logs/
 
 # Local configuration & instructions
 .github/copilot-instructions.md
+PROJECT_STATUS.md
 
 
 
