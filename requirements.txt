@@ -1,0 +1,4 @@
+Red-DiscordBot==3.5.22
+aiohttp==3.9.5
+discord.py==2.6.3
+pyyaml==6.0.2
